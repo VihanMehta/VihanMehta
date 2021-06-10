@@ -5,15 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/vihan__mehta" target="blank"><img src="https://img.shields.io/twitter/follow/vihan__mehta?logo=twitter&style=for-the-badge" alt="vihan__mehta" /></a> </p>
 
-- 🌱 I’m currently learning **Web pen-testing, cloud , cloud security**
+- 🌱 I’m currently learning **Web Pen-testing, Cloud , Cloud security**
 
 - 👨‍💻 All of my projects are available at [https://vihanmehta.netlify.app/](https://vihanmehta.netlify.app/)
 
 - 📝 I regularly write articles on (under construction ) [https://fencytech.com/](https://fencytech.com/)
 
-- 💬 Ask me about **python , django**
+- 💬 Ask me about **python , django , web security**
 
-- ⚡ Fun fact **I think i am too optimistic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
