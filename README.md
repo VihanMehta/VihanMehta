@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vihanmehta.netlify.app/](https://vihanmehta.netlify.app/)
 
-- 📝 I regularly write articles on (under construction ) [https://fencytech.com/](https://fencytech.com/)
+- 📝 I will regularly write articles on (under construction ) [https://fencytech.com/](https://fencytech.com/)
 
 - 💬 Ask me about **python , django , web security**
 
