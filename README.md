@@ -13,6 +13,9 @@
 
 - 💬 Ask me about **python , django , web security**
 
+ <img src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/b3f3e49af811ba8791ebe4d325854ea5fd31298b/github-contribution-grid-snake.svg" />
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
