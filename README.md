@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://vihanmehta.netlify.app/](https://vihanmehta.netlify.app/)
 
-- 📝 I will regularly write articles on (under construction ) [https://fencytech.com/](https://fencytech.com/)
-
 - 💬 Ask me about **python , django , web security**
 
  <img src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/b3f3e49af811ba8791ebe4d325854ea5fd31298b/github-contribution-grid-snake.svg" />
